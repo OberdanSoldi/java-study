@@ -12,7 +12,8 @@
 
 ### 1. [Hello World](./src/fundamentos/PrimeiroPrograma.java)
 ### 2. [Var and Const](./src/fundamentos/AreaCircunferencia.java)
-### 3. [Tipos](./src/fundamentos/AreaCircunferencia.java)
+### 3. [Tipos](./src/fundamentos/TiposPrimitivos.java)
+### 4. [Notação Ponto](./src/fundamentos/NotacaoPonto.java)
 
 ---
 ##### By: [@OberdanSoldi](https://github.com/OberdanSoldi)
