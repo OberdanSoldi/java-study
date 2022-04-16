@@ -10,8 +10,9 @@
 
 <br>
 
-### [Hello World](./src/fundamentos/PrimeiroPrograma.java)
-### [Var and Const](./src/fundamentos/AreaCircunferencia.java)
+### 1. [Hello World](./src/fundamentos/PrimeiroPrograma.java)
+### 2. [Var and Const](./src/fundamentos/AreaCircunferencia.java)
+### 3. [Tipos](./src/fundamentos/AreaCircunferencia.java)
 
 ---
 ##### By: [@OberdanSoldi](https://github.com/OberdanSoldi)
